@@ -1,4 +1,4 @@
-<h1 align="center">Dmitry Yashin</h1>
+<h1 align="center">Dmitriy Yashin</h1>
 
 <p align="center">
   <a href="https://yashindev.ru">
