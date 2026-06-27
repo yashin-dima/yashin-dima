@@ -6,13 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://yashindev.ru"><img src="https://img.shields.io/badge/Website-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://t.me/yashindev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://wa.me/79299900885"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:yashindima01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 ---
 
 I build functional, scalable products end-to-end — from backend architecture and integrations to frontend, **native iOS apps**, and **AI-powered features**. I ship full applications for the App Store and weave LLMs into real products: assistants, automation, and smart Telegram bots. Led development on the **De'Longhi Group** e-commerce ecosystem. I care about clean code, automation, and well-structured processes.
