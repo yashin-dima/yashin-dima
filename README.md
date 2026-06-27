@@ -6,8 +6,6 @@
   </a>
 </p>
 
----
-
 I build functional, scalable products end-to-end — from backend architecture and integrations to frontend, **native iOS apps**, and **AI-powered features**. I ship full applications for the App Store and weave LLMs into real products: assistants, automation, and smart Telegram bots. Led development on the **De'Longhi Group** e-commerce ecosystem. I care about clean code, automation, and well-structured processes.
 
 ### What I work with
